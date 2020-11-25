@@ -1,0 +1,62 @@
+.head {
+    color:orange;
+    Justify-content: center;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+  color: black;
+  justify-content:right;
+  font-size: 20px; 
+  
+}
+
+
+main {
+  background-color: powderblue;
+  text-align: center;
+  
+}
+
+.title {
+  color: black;
+  text-align:Center;
+}
+
+footer {
+    text-align: center;
+  
+}
+
+content {
+    text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+
+h5 {
+    font-family: 'Pacifico', cursive;
+    font-size: 1.8em;
+    margin-bottom: 0px;
+    text-align: center;
+    color: orange;
+  
+}
+ 
+ h4 {
+   text-align: center;
+ }
+
+h3 {
+  color: lightblue;
+}
+
+.table {
+  text-align:left;
+  margin-left: 100px;
+  margin-right:100px;
+}
